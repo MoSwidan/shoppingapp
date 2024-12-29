@@ -1,11 +1,16 @@
-# Shopping App - Flutter
+# shoppingapp
 
-This is a simple Shopping App. 
+A new Flutter project.
 
-## Features
+## Getting Started
 
-- **Our Products**: Displays a grid of product images and their names
-- **Hot Offers**: Displays a list of hot offers with images.
-- 
-## Example Output
-![Output Screenshot](screenshot.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
